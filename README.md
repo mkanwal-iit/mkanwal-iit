@@ -28,9 +28,9 @@ Application Programming Interfaces (API)
 ---
 
 ### 🚀 Latest Projects
-- 🌐 [My Portfolio Website]([[https://your-portfolio-link.com](https://github.com/mkanwal-iit))
-- 📊 [Dynamic GitHub Profile README](https://github.com/mkanwal-iit/mkanwal-iit/edit/main/README.md) 
-- 🛠️ [Custom API Builder]([https://github.com/your-profile/custom-api)](https://github.com/mkanwal-iit/mini-capstone-api) - Build Ruby on rails web app
+- 🌐 [My Portfolio Website](
+- 📊 [Dynamic GitHub Profile README](
+- 🛠️ [Custom API Builder]([]( - Build Ruby on rails web app
 
 ---
 
