@@ -20,17 +20,17 @@ HTML,Javascript
 **Models**:LLMs,LinearRegression.SvM,DecisionTree,Regression models,CNN,Transformers
 **Libraries**:Sciket-Learn,Numpy,Pandas,Matplotlib,Seaborn,Keras,TensorFlow
 Application Programming Interfaces (API)
-- **Frameworks/Libraries**: Express.js, Node.js, React
-- **Database**: PostgreSQL, MongoDB,SQLite
-- **Tools**: Git, Docker, VS Code,Github,Matlab
-- **Cloud**: AWS
+- **Frameworks/Libraries**: Ruby on Rails,Express.js, Node.js, React,Vues,PythonFlask,TypeScript
+- **Database**: PostgreSQL,SQLite
+- **Tools**: Gitlab, Postico, VS Code,Github,Matlab,Httpie
+  
 
 ---
 
 ### 🚀 Latest Projects
 - 🌐 [My Portfolio Website](https://mkanwal-ai.com/)
 - 📊 [Dynamic GitHub Profile README](
-- 🛠️ [Custom API Builder]([]( - Build Ruby on rails web app
+- 🛠️ [Custom API Builder]([]( - Build Ruby on rails web apps
 
 ---
 
@@ -40,9 +40,8 @@ Application Programming Interfaces (API)
 ---
 
 ### 💡 Fun Extras
-- 🕹️ **Hobbies**: Gaming, Cooking, Pickle ball,VolleyBall
-- 🎯 **Goals for 2024**: Contribute to 5+ open-source projects and build a SaaS app!
-- 📝 **Blog**: [Visit My Blog](https://blog-link.com)
+- 🕹️ **Hobbies**: Gaming, Cooking, Pickle ball,VolleyBall,Cricket
+- 🎯 **Goals for 2024**: Contribute to 5+ open-source projects and build a AI models integrating with web development.
 
 ---
 
