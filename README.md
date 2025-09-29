@@ -26,8 +26,7 @@ Application Programming Interfaces (API)
    
 ---
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mkanwal-iit&show_icons=true&theme=radical)
+<!--  ### 📊 GitHub Stats #![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mkanwal-iit&show_icons=true&theme=radical) -->
 
 ---
 
