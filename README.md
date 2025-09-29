@@ -23,16 +23,7 @@ Application Programming Interfaces (API)
 - **Frameworks/Libraries**: Ruby on Rails,Express.js, Node.js, React,Vues,PythonFlask,TypeScript
 - **Database**: PostgreSQL,SQLite
 - **Tools**: Gitlab, Postico, VS Code,Github,Matlab,Httpie
-  
-
----
-
-### 🚀 Latest Projects
-- 🌐 [My Portfolio Website](https://mkanwal-ai.com/)
-- 📊 [Dynamic GitHub Profile README](
-- 🛠️ [Custom API Builder]([]( - Build Ruby on rails web apps)
-   https://github.com/mkanwal-iit/hairstyle_salon-app-.git
-
+   
 ---
 
 ### 📊 GitHub Stats
