@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
 - 👯 I’m looking to collaborate on **open-source projects** and **cutting-edge web technologies**.
 - 🤔 I’m looking for help with exploring **AI and Machine Learning** integrations in web apps.
 - 💬 Ask me about **JavaScript**, **APIs**, and how to make great **backends**.
-- 📫 How to reach me: [LinkedIn](linkedin.com/in/mkanwalai) | [Email](madha@duck.com)
+- 📫 How to reach me: [LinkedIn](linkedin.com/in/mkanwalai) | [Email](madiha@duck.com)
 - 😄 Pronouns: Her
 - ⚡ Fun fact: When I'm not coding, I'm probably reading about AI or experimenting in the kitchen!
 
