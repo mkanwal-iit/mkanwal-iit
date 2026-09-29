@@ -88,17 +88,33 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 Featured Projects
+
+#### 🚗 [mmWave Radar & Machine Vision Fusion](https://github.com/mkanwal-iit/Mmwave_Project)
+Sensor-fusion system for **pedestrian collision warning** in autonomous vehicles, combining mmWave radar depth profiling with ML-powered image classification for robust real-time obstacle detection.
+
+`Signal Processing` `Computer Vision` `Sensor Fusion` `MATLAB`
+
+#### ⚡ [Hourly Load Forecasting Across 20 US Grid Zones](https://github.com/mkanwal-iit/Load-Forecasting)
+Predicts hourly electrical load for 20 US zones from 11 temperature stations. Correlation-based station-to-zone mapping, outlier removal and feature engineering, with **linear regression benchmarked against a tuned random forest** on speed and accuracy.
+
+`Python` `scikit-learn` `Pandas` `NumPy` `Time Series`
+
+#### 🤖 [Slack Deployment Bot](https://github.com/mkanwal-iit/slack_deployment_bot)
+A Slack bot that automates deployments — trigger and monitor releases directly from chat.
+
+`Ruby` `Slack API` `DevOps` `Automation`
+
+#### 🛍️ Full-Stack Web Applications
+| Project | Stack |
+| --- | --- |
+| [Grocery Store](https://github.com/mkanwal-iit/grocery-store-frontend-react) | React · Rails API |
+| [Hair Salon Booking](https://github.com/mkanwal-iit/hairstyle_salon_frontend_react) | React · Rails API |
+| [Furniture Store](https://github.com/mkanwal-iit/furniture-pythonflask-backend) | Python · Flask |
+| [Blog Platform](https://github.com/mkanwal-iit/blog-typescript-frontend) | TypeScript · Rails API |
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mkanwal-iit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkanwal-iit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mkanwal-iit&theme=tokyonight&hide_border=true" />
-
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkanwal-iit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 ---
