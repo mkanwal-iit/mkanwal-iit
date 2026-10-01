@@ -10,7 +10,8 @@
 
 <a href="https://www.linkedin.com/in/mkanwal-ai/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:madihakanwal0737@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<img src="https://komarev.com/ghpvc/?username=mkanwal-iit&style=for-the-badge&color=6C63FF" alt="Profile views" />
+<img src="https://img.shields.io/badge/Chicago,_IL-6C63FF?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Chicago, IL" />
+<img src="https://img.shields.io/badge/Open_to_Work-2EA043?style=for-the-badge&logoColor=white" alt="Open to Work" />
 
 </div>
 
@@ -129,6 +130,17 @@ A Slack bot that automates deployments — trigger and monitor releases directly
 <div align="center">
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkanwal-iit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
+
+---
+
+### ✍️ Blog
+
+I write about what I learn building things — debugging stories, deployment notes, and
+the occasional thing that took far longer than it should have.
+
+**[Read the blog →](https://blog-typescript-frontend.onrender.com)**
+
+> Self-hosted on a React frontend I built, backed by my own Rails API.
 
 ---
 
