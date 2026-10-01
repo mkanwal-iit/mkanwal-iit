@@ -90,8 +90,17 @@
 
 ### 🚀 Featured Projects
 
-#### 📝 [Demo Blog API](https://github.com/mkanwal-iit/demo-blog-api) · [**Live Demo →**](https://demo-blog-api-q9rt.onrender.com/posts.json)
-RESTful JSON API with session authentication and full CRUD on posts. Containerized with Docker and deployed to Render, with a **GitHub Actions pipeline** running tests, RuboCop, Brakeman, and a dependency audit on every push.
+#### 🎨 [Blog Frontend](https://github.com/mkanwal-iit/blog-typescript-frontend) · [**Live Site →**](https://blog-typescript-frontend.onrender.com)
+React and TypeScript single-page app consuming the API below. Client-side routing, session-based
+login, and full CRUD on posts. Deployed to Render as a static site with automatic builds on push.
+
+`React` `TypeScript` `React Router` `Vite` `CSS`
+
+#### 📝 [Demo Blog API](https://github.com/mkanwal-iit/demo-blog-api) · [**Live API →**](https://demo-blog-api-q9rt.onrender.com/posts.json)
+RESTful JSON API with session authentication and full CRUD on posts, deployed to Render as a
+Docker container. A **GitHub Actions pipeline** runs the test suite against a PostgreSQL service
+container plus RuboCop, Brakeman, and a dependency audit on every pull request — and `main` is
+protected, so nothing merges or deploys unless all four checks pass.
 
 `Ruby on Rails 8` `PostgreSQL` `Docker` `GitHub Actions` `CI/CD`
 
@@ -116,7 +125,6 @@ A Slack bot that automates deployments — trigger and monitor releases directly
 | [Grocery Store](https://github.com/mkanwal-iit/grocery-store-frontend-react) | React · Rails API |
 | [Hair Salon Booking](https://github.com/mkanwal-iit/hairstyle_salon_frontend_react) | React · Rails API |
 | [Furniture Store](https://github.com/mkanwal-iit/furniture-pythonflask-backend) | Python · Flask |
-| [Blog Platform](https://github.com/mkanwal-iit/blog-typescript-frontend) | TypeScript · Rails API |
 
 <div align="center">
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkanwal-iit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
