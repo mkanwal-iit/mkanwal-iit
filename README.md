@@ -105,6 +105,22 @@ protected, so nothing merges or deploys unless all four checks pass.
 
 `Ruby on Rails 8` `PostgreSQL` `Docker` `GitHub Actions` `CI/CD`
 
+#### 🛒 E-Commerce Store · [**Live Store →**](https://frontend-mini-capstone.onrender.com/photos)
+Product catalogue with suppliers, categories, image galleries, a cart, and admin-only product
+management. React frontend against a Rails API, both deployed to Render.
+
+Brought back from a dead deployment: the managed database behind it had expired, and Rails 8's
+generated multi-database production config meant `DATABASE_URL` was silently ignored, so the app
+fell back to a local socket that does not exist inside a container. Rebuilt on
+**[Neon](https://neon.tech)** — serverless Postgres with no expiry — and moved both the API host
+and the database connection into environment variables, so neither is pinned in code again.
+
+[Frontend repo](https://github.com/mkanwal-iit/frontend-mini-capstone) ·
+[API repo](https://github.com/mkanwal-iit/mini-capstone-api) ·
+[API endpoint](https://mini-capstone-api-lv9j.onrender.com/products.json)
+
+`React` `Ruby on Rails 8` `Neon Postgres` `Docker` `REST API`
+
 #### 🚗 [mmWave Radar & Machine Vision Fusion](https://github.com/mkanwal-iit/Mmwave_Project)
 Sensor-fusion system for **pedestrian collision warning** in autonomous vehicles, combining mmWave radar depth profiling with ML-powered image classification for robust real-time obstacle detection.
 
