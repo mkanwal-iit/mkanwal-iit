@@ -90,7 +90,7 @@
 
 ### 🚀 Featured Projects
 
-#### 📝 [Demo Blog API](https://github.com/mkanwal-iit/demo-blog-api) · [**Live Demo →**](https://demo-blog-api-q9rt.onrender.com/posts)
+#### 📝 [Demo Blog API](https://github.com/mkanwal-iit/demo-blog-api) · [**Live Demo →**](https://demo-blog-api-q9rt.onrender.com/posts.json)
 RESTful JSON API with session authentication and full CRUD on posts. Containerized with Docker and deployed to Render, with a **GitHub Actions pipeline** running tests, RuboCop, Brakeman, and a dependency audit on every push.
 
 `Ruby on Rails 8` `PostgreSQL` `Docker` `GitHub Actions` `CI/CD`
