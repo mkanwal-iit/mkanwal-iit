@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there%20👋%20I'm%20Madiha&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there%20👋%20I%27m%20Madiha&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20and%20ML%20Enthusiast&descAlignY=55&descSize=18" width="100%" />
 
 <a href="https://github.com/mkanwal-iit">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+awesome+web+applications;Ruby+on+Rails+%7C+Express.js+%7C+PostgreSQL;Exploring+AI+%26+Machine+Learning;Let's+build+something+amazing+together!" alt="Typing SVG" />
